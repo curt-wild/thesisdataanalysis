@@ -1,0 +1,172 @@
+ID;birthcountry;age;colorblind;gender;experience;maptype;taraxa;phrengal;kovaire;cameron;ajaxa;centralia;laurenia;gelesia;ravinia;midian;nostate;idk;confidence
+2;Germany;25;No;Female;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+6;Germany;24;No;Female;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;2
+7;United States;29;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;No;Yes;
+8;Russia;19;No;Male;No;b;Yes;No;No;No;Yes;No;No;No;No;No;No;No;4
+12;Colombia;25;No;Female;No;s;No;No;No;Yes;No;No;No;Yes;No;No;No;No;1
+13;Malaysia;29;No;Female;Yes;b;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;4
+14;Colombia;30;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+15;Russia;27;No;Female;No;b;No;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;2
+17;Germany;27;No;Female;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+20;Turkey;24;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+21;Russia;29;No;I'd rather not say;Yes;s;Yes;No;No;No;No;No;No;No;No;No;No;No;1
+27;France;23;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+33;Austria;19;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+37;Colombia;27;No;Female;No;s;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;3
+39;Italy;30;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;2
+40;Russia;29;No;Female;Yes;b;No;No;No;No;No;No;No;No;Yes;No;No;No;2
+42;Colombia;28;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+45;Russia;24;No;I'd rather not say;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+48;China;25;No;Female;Yes;s;No;No;No;No;No;Yes;No;No;No;No;No;No;2
+49;Germany;29;No;Male;Yes;s;Yes;No;No;Yes;No;No;No;No;No;No;No;No;1
+55;Germany;26;No;Female;No;s;Yes;No;Yes;No;No;No;Yes;No;No;No;No;No;2
+57;United States;32;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+60;Colombia;32;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+61;Poland;25;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+67;Japan;23;No;Male;No;s;No;No;No;No;No;No;Yes;Yes;Yes;No;No;No;3
+68;Malaysia;23;No;Male;No;s;No;Yes;No;Yes;No;No;No;Yes;No;No;No;No;3
+70;Malaysia;21;No;Male;No;s;No;No;No;Yes;No;No;No;Yes;No;No;No;No;3
+72;Malaysia;35;No;Female;Yes;s;No;No;No;Yes;No;No;No;No;No;No;No;No;4
+75;Germany;37;No;Female;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+77;Colombia;28;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+79;Colombia;66;No;Female;No;s;No;No;No;Yes;No;No;No;No;No;No;No;No;3
+80;Colombia;28;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+85;China;27;No;Female;Yes;b;No;No;No;Yes;No;No;No;No;No;No;No;No;2
+86;United Kingdom;;No;I'd rather not say;Yes;s;Yes;No;No;No;No;No;No;No;No;No;No;No;2
+89;Nepal;28;No;Male;No;s;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;3
+91;Colombia;28;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+95;Colombia;69;No;Male;No;b;Yes;No;No;Yes;No;No;No;No;No;No;No;No;2
+96;Colombia;56;No;Female;No;s;Yes;No;No;No;No;No;No;Yes;No;No;No;No;5
+99;Spain;64;No;Female;Yes;s;No;No;No;Yes;No;No;No;Yes;No;No;No;No;5
+102;Colombia;27;No;Female;No;s;Yes;No;No;No;No;Yes;Yes;No;No;No;No;No;2
+104;Colombia;25;No;Female;No;b;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;5
+108;Colombia;34;Yes;Female;No;b;No;No;No;No;No;No;Yes;Yes;Yes;No;No;No;4
+113;Colombia;27;No;Male;No;s;Yes;No;No;Yes;No;No;No;No;Yes;No;No;No;4
+117;Colombia;25;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+122;China;24;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+124;Colombia;29;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+125;Mexico;27;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;No;Yes;
+126;Other / I'd rather not say;35;No;Female;Yes;s;No;No;No;No;No;No;No;Yes;No;No;No;No;1
+128;Other / I'd rather not say;26;No;I'd rather not say;Yes;b;No;No;No;No;No;No;Yes;No;No;No;No;No;1
+130;Germany;27;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+131;Mexico;25;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+132;Portugal;22;No;Male;No;b;Yes;No;No;No;Yes;No;Yes;Yes;No;No;No;No;1
+133;United States;27;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;2
+138;Germany;20;No;Male;No;s;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;3
+141;Germany;57;No;Female;No;s;No;No;No;No;No;No;Yes;Yes;No;No;No;No;2
+144;Germany;20;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;2
+145;Germany;55;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+148;Germany;22;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;1
+150;Germany;53;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+151;Colombia;38;No;Female;No;s;No;No;No;Yes;No;No;No;Yes;No;No;No;No;4
+152;Germany;18;No;Female;No;s;No;No;Yes;Yes;No;Yes;No;No;Yes;No;No;No;1
+154;Israel;27;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+156;Mexico;27;No;Female;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+162;United States;53;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+163;Germany;35;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+166;Germany;56;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+169;France;27;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;1
+170;United Kingdom;51;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+171;United States;45;No;Male;Yes;s;Yes;No;No;Yes;No;No;No;No;No;No;No;No;2
+175;Canada;29;No;Female;Yes;b;Yes;No;Yes;No;No;No;No;No;No;Yes;No;No;1
+177;United States;36;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+178;Israel;38;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+179;Germany;32;No;Male;Yes;s;No;No;No;Yes;No;No;No;No;No;No;No;No;1
+183;France;43;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+186;Other / I'd rather not say;48;No;I'd rather not say;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+189;France;30;No;Diverse;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+193;Germany;24;No;I'd rather not say;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+202;Germany;27;No;Female;No;b;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No;3
+208;United States;42;No;Female;Yes;s;No;No;No;No;No;No;No;No;Yes;No;No;No;3
+209;France;36;No;Male;No;s;No;No;No;Yes;No;No;No;No;No;No;No;No;1
+219;United Kingdom;64;No;I'd rather not say;No;s;No;No;No;No;No;No;No;No;No;No;No;Yes;
+220;United States;53;No;Female;No;s;No;No;No;No;No;No;No;Yes;No;No;No;No;2
+225;Germany;32;Yes;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+228;Germany;18;No;Male;No;s;No;No;No;No;No;No;No;Yes;No;No;No;No;3
+229;France;31;No;Diverse;No;b;No;No;No;No;No;No;No;Yes;No;No;No;No;3
+234;France;35;No;I'd rather not say;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+236;France;38;No;Diverse;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+237;Brazil;30;No;Diverse;No;s;No;No;No;No;No;No;No;Yes;No;No;No;No;1
+238;United States;37;No;Diverse;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+244;France;42;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+248;United States;49;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+250;France;31;No;Male;No;s;Yes;No;No;Yes;No;Yes;No;No;No;No;No;No;2
+251;Finland;48;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+255;Finland;37;No;Diverse;No;b;No;No;Yes;Yes;Yes;No;No;No;No;Yes;No;No;3
+256;United States;44;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+258;Colombia;26;No;Female;No;b;No;No;No;Yes;No;No;No;Yes;No;No;No;No;3
+264;United States;27;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+267;Canada;36;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+273;Netherlands;41;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+279;Netherlands;31;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+280;Sweden;25;No;Male;No;b;No;No;No;No;No;Yes;No;No;Yes;No;No;No;2
+283;Germany;39;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;No;Yes;
+284;United States;55;Yes;Male;Yes;s;No;No;No;Yes;No;No;No;No;Yes;No;No;No;1
+285;Germany;39;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+286;Belgium;44;No;Female;No;s;Yes;No;No;Yes;No;No;No;No;No;No;No;No;3
+287;United Kingdom;47;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+288;United Kingdom;38;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+292;United States;48;No;Female;Yes;s;No;No;No;Yes;No;No;No;No;No;No;No;No;4
+294;Germany;35;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;2
+296;Colombia;25;No;Female;No;s;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;5
+298;Canada;41;No;Female;No;b;No;No;No;Yes;No;No;No;No;No;No;No;No;3
+299;United Kingdom;59;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+300;United States;35;No;Diverse;No;s;No;No;No;Yes;No;No;No;No;No;No;Yes;No;3
+301;Germany;55;No;Male;Yes;b;No;No;No;No;Yes;No;No;Yes;No;No;No;No;3
+302;United States;55;No;Male;Yes;s;No;No;Yes;No;No;No;No;No;No;No;Yes;No;2
+303;United Kingdom;43;No;Female;No;s;Yes;No;No;Yes;No;No;No;Yes;No;Yes;No;No;2
+306;United States;55;No;Diverse;No;s;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;2
+307;United Kingdom;38;No;Diverse;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+313;Canada;35;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+314;Germany;44;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+315;Other / I'd rather not say;;No;I'd rather not say;No;s;No;No;No;Yes;No;No;No;No;No;No;No;No;1
+316;Germany;71;No;Male;Yes;s;No;No;No;Yes;No;No;No;No;No;No;No;No;3
+317;United Kingdom;34;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+318;United Kingdom;54;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;2
+320;Austria;31;No;Male;No;s;No;Yes;No;Yes;No;No;No;No;Yes;No;No;No;2
+321;United Kingdom;46;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+323;Canada;37;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;No;Yes;
+330;Canada;60;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+332;United States;72;No;Female;Yes;s;Yes;No;No;No;No;No;Yes;No;Yes;No;No;No;2
+333;Canada;41;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+335;Other / I'd rather not say;;No;I'd rather not say;Yes;b;No;No;No;No;No;No;No;No;Yes;No;No;No;2
+337;United States;69;No;Female;Yes;s;No;No;No;Yes;No;No;No;Yes;Yes;No;No;No;4
+341;United States;46;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+342;United States;68;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+344;United States;46;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+348;Latvia;40;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+349;United States;56;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+350;Brazil;54;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+351;Mexico;52;No;Male;Yes;s;No;No;No;Yes;No;No;No;No;No;No;No;No;4
+354;United States;56;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+358;United States;62;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+360;Canada;50;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+361;United States;55;No;Diverse;No;s;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;5
+363;Canada;53;No;Female;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+367;United Kingdom;30;No;Diverse;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+373;United States;53;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+374;France;33;No;Male;Yes;s;No;No;No;No;No;No;No;No;No;No;No;Yes;
+375;Netherlands;47;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+376;United States;45;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+377;Germany;57;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+378;Sweden;57;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+379;Germany;49;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+380;Germany;32;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+381;Estonia;43;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+384;Germany;52;No;Male;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+386;Sweden;29;No;I'd rather not say;No;s;Yes;No;No;Yes;No;No;No;No;No;No;Yes;No;2
+387;United States;39;No;Female;Yes;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+390;Germany;39;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+391;France;42;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+392;United Kingdom;45;No;Diverse;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;5
+393;Germany;24;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;2
+394;Austria;31;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+396;United States;60;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+397;United States;70;No;Female;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+398;United States;24;No;Female;No;s;No;No;No;No;No;No;No;Yes;No;No;No;No;3
+400;Other / I'd rather not say;70;No;Female;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;4
+401;Canada;35;No;Diverse;No;s;Yes;No;No;Yes;No;No;No;No;No;No;No;No;3
+403;South Africa;42;No;Male;Yes;s;Yes;No;No;Yes;No;No;No;No;No;No;No;No;3
+404;Germany;40;No;Male;No;b;No;No;No;No;No;No;No;No;No;No;Yes;No;3
+405;United States;38;No;Male;No;s;No;No;No;No;No;No;No;No;No;No;Yes;No;2
+411;United States;69;Yes;Male;No;s;No;No;No;Yes;No;No;No;Yes;No;No;No;No;1

@@ -1,0 +1,175 @@
+ID;birthcountry;age;colorblind;gender;experience;maptype;time;relation;confidence;happiness;sadness;fear;disgust;anger;surprise;none;taraxa;phrengal;kovaire;cameron;ajaxa;centralia;laurenia;gelesia;ravinia;midian;nostate;idk
+2;Germany;25;No;Female;Yes;s;88,86;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+6;Germany;24;No;Female;Yes;s;25,42;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+7;United States;29;No;Male;Yes;b;91,91;No relationship;3;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+8;Russia;19;No;Male;No;b;137,63;As one increases, so does the other;4;No;Yes;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+12;Colombia;25;No;Female;No;b;22,99;No relationship;5;No;Yes;No;No;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+13;Malaysia;29;No;Female;Yes;s;99,91;No relationship;3;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+14;Colombia;30;No;Female;No;b;38,74;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;Yes;No;Yes;No;No;No;No;No;No;No;No
+15;Russia;27;No;Female;No;b;41,38;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+17;Germany;27;No;Female;Yes;b;64,77;As one increases, so does the other;5;No;No;No;No;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+19;Russia;29;No;Male;Yes;b;55,85;As one increases, so does the other;5;No;No;Yes;Yes;Yes;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+20;Turkey;24;No;Female;No;b;11,05;As one increases, so does the other;5;No;No;Yes;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+21;Russia;29;No;I'd rather not say;Yes;b;49,96;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+27;France;23;No;Male;Yes;b;61,12;As one increases, so does the other;4;No;No;Yes;No;No;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+33;Austria;19;No;Female;No;s;62,34;As one increases, the other decreases;1;No;No;Yes;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+37;Colombia;27;No;Female;No;b;62,44;As one increases, so does the other;4;No;No;No;Yes;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+39;Italy;30;No;Female;No;s;20,85;As one increases, the other decreases;5;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+40;Russia;29;No;Female;Yes;s;17,63;As one increases, so does the other;3;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+42;Colombia;28;No;Female;No;b;51,52;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+45;Russia;24;No;I'd rather not say;Yes;b;63,76;As one increases, so does the other;2;No;No;No;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+48;China;25;No;Female;Yes;b;20,96;As one increases, so does the other;5;No;No;Yes;No;Yes;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+49;Germany;29;No;Male;Yes;s;32,47;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+55;Germany;26;No;Female;No;s;56,44;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;Yes;No;Yes;No;No;No;No;No
+57;United States;32;No;Male;Yes;s;25,88;As one increases, so does the other;5;No;Yes;No;No;No;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+59;Greece;26;No;Male;Yes;s;20,43;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+60;Colombia;32;No;Female;No;b;60,56;As one increases, so does the other;3;No;No;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+61;Poland;25;No;Male;Yes;s;42,33;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+67;Japan;23;No;Male;No;s;23,64;As one increases, so does the other;5;No;No;Yes;No;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+68;Malaysia;23;No;Male;No;b;27,99;As one increases, so does the other;1;No;No;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+70;Malaysia;21;No;Male;No;s;77,33;I have no clue;;Yes;No;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+72;Malaysia;35;No;Female;Yes;b;25,06;No relationship;4;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+75;Germany;37;No;Female;Yes;b;106,96;As one increases, so does the other;3;No;No;Yes;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+76;Germany;43;No;Female;Yes;s;131,01;As one increases, so does the other;3;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+77;Colombia;28;No;Male;Yes;b;35,59;As one increases, so does the other;4;No;No;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;Yes;No;No;No
+79;Colombia;66;No;Female;No;b;70,21;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+80;Colombia;28;No;Male;No;b;46,98;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+85;China;27;No;Female;Yes;s;77,95;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+86;United Kingdom;;No;I'd rather not say;Yes;b;27,34;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+89;Nepal;28;No;Male;No;b;42,42;As one increases, so does the other;4;No;No;No;No;No;Yes;No;Yes;No;No;Yes;No;No;No;No;Yes;No;No;No
+91;Colombia;28;No;Male;No;s;105,34;As one increases, so does the other;1;No;No;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No;No;Yes;No;No
+95;Colombia;69;No;Male;No;b;167,52;As one increases, so does the other;4;No;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+96;Colombia;56;No;Female;No;b;128,31;I have no clue;;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;Yes
+99;Spain;64;No;Female;Yes;s;101,78;I have no clue;;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;Yes
+102;Colombia;27;No;Female;No;s;122,92;As one increases, so does the other;4;No;No;No;No;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+104;Colombia;25;No;Female;No;s;32,95;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;Yes;No;No
+108;Colombia;34;Yes;Female;No;b;11,38;As one increases, so does the other;4;No;No;No;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+113;Colombia;27;No;Male;No;s;43,85;As one increases, so does the other;5;No;No;Yes;No;No;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+117;Colombia;25;No;Female;No;s;57,93;As one increases, so does the other;5;No;Yes;No;No;No;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+122;China;24;No;Male;Yes;b;21,04;As one increases, so does the other;4;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+124;Colombia;29;No;Female;No;b;35,29;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+125;Mexico;27;No;Male;Yes;s;28,71;As one increases, so does the other;4;No;No;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+126;Other / I'd rather not say;35;No;Female;Yes;b;31,18;As one increases, so does the other;5;No;No;No;Yes;No;No;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No
+128;Other / I'd rather not say;26;No;I'd rather not say;Yes;b;37,08;As one increases, so does the other;3;No;Yes;Yes;No;Yes;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+130;Germany;27;No;Male;Yes;s;45,7;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+131;Mexico;25;No;Male;Yes;s;48,87;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+132;Portugal;22;No;Male;No;b;32,85;As one increases, so does the other;5;No;Yes;Yes;No;No;No;No;Yes;No;No;No;Yes;Yes;Yes;No;No;Yes;No;No
+133;United States;27;No;Female;No;b;21,15;As one increases, so does the other;5;No;Yes;Yes;Yes;No;Yes;No;Yes;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+138;Germany;20;No;Male;No;b;49,38;As one increases, so does the other;4;No;No;No;Yes;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+141;Germany;57;No;Female;No;s;42,41;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+144;Germany;20;No;Male;No;b;60,87;As one increases, so does the other;4;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+145;Germany;55;No;Male;No;b;67,04;As one increases, so does the other;5;No;No;No;Yes;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+148;Germany;22;No;Male;No;s;78,83;As one increases, so does the other;2;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+150;Germany;53;No;Female;No;s;78,63;As one increases, so does the other;5;No;No;No;No;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+151;Colombia;38;No;Female;No;s;68,88;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+152;Germany;18;No;Female;No;b;58,31;As one increases, so does the other;5;No;Yes;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+154;Israel;27;No;Male;Yes;b;29,06;As one increases, so does the other;4;No;No;No;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+156;Mexico;27;No;Female;Yes;b;19,75;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+162;United States;53;No;Male;Yes;b;34,94;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;Yes;No;No;No;No;No;No
+163;Germany;35;No;Male;Yes;b;33,31;As one increases, so does the other;4;No;No;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+166;Germany;56;No;Female;No;b;89,59;As one increases, so does the other;4;No;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+169;France;27;No;Male;Yes;s;18,26;As one increases, so does the other;4;No;No;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+170;United Kingdom;51;No;Male;Yes;b;40,98;As one increases, so does the other;5;No;Yes;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No;No;No;No
+171;United States;45;No;Male;Yes;s;35,39;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+175;Canada;29;No;Female;Yes;b;17,88;As one increases, so does the other;3;No;No;Yes;No;No;Yes;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+177;United States;36;No;Male;Yes;s;21,48;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+178;Israel;38;No;Male;Yes;s;45,08;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+179;Germany;32;No;Male;Yes;b;44,17;As one increases, so does the other;4;No;No;Yes;No;No;Yes;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No
+183;France;43;No;Male;Yes;b;33,15;As one increases, so does the other;5;No;Yes;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No;Yes;No;No;No
+186;Other / I'd rather not say;48;No;I'd rather not say;No;s;85,98;As one increases, so does the other;3;No;Yes;No;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+189;France;30;No;Diverse;Yes;b;57,4;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+193;Germany;24;No;I'd rather not say;Yes;b;26,48;As one increases, so does the other;4;No;Yes;Yes;No;Yes;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+202;Germany;27;No;Female;No;s;35,18;As one increases, so does the other;5;No;No;No;Yes;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+208;United States;42;No;Female;Yes;b;26,45;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;Yes;No;No;No;No;No;No
+209;France;36;No;Male;No;s;35,47;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No
+219;United Kingdom;64;No;I'd rather not say;No;b;26,59;As one increases, the other decreases;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+220;United States;53;No;Female;No;b;28,32;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+225;Germany;32;Yes;Male;Yes;b;44,33;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+228;Germany;18;No;Male;No;s;38,13;No relationship;5;No;No;No;No;No;Yes;No;Yes;No;No;Yes;No;No;No;No;No;Yes;No;No
+229;France;31;No;Diverse;No;s;44,08;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+234;France;35;No;I'd rather not say;No;s;41,62;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+236;France;38;No;Diverse;No;b;42,4;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+237;Brazil;30;No;Diverse;No;s;104,25;As one increases, so does the other;4;No;No;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+238;United States;37;No;Diverse;Yes;s;44,49;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+244;France;42;No;Male;No;s;55,59;As one increases, so does the other;5;No;Yes;No;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+248;United States;49;No;Female;No;s;44,46;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+250;France;31;No;Male;No;b;38,62;As one increases, so does the other;4;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+251;Finland;48;No;Female;No;b;45,42;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+255;Finland;37;No;Diverse;No;b;67,4;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+256;United States;44;No;Male;No;s;30,8;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+258;Colombia;26;No;Female;No;s;105,99;As one increases, so does the other;4;No;No;No;No;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+264;United States;27;No;Male;No;b;53,62;As one increases, so does the other;4;No;Yes;No;No;No;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+267;Canada;36;No;Male;No;b;26,15;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+273;Netherlands;41;No;Male;Yes;b;27,73;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+279;Netherlands;31;No;Male;No;s;67,44;As one increases, so does the other;3;No;Yes;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+280;Sweden;25;No;Male;No;b;24,82;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+283;Germany;39;No;Male;No;s;252,67;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+284;United States;55;Yes;Male;Yes;b;47,65;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+285;Germany;39;No;Male;No;b;33,24;As one increases, so does the other;5;No;Yes;No;No;Yes;No;No;Yes;No;No;Yes;No;Yes;No;No;No;No;No;No
+286;Belgium;44;No;Female;No;s;55,12;As one increases, so does the other;3;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+287;United Kingdom;47;No;Male;No;b;43,99;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+288;United Kingdom;38;No;Male;No;b;30,62;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No
+292;United States;48;No;Female;Yes;s;31,94;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+294;Germany;35;No;Male;Yes;s;38,9;As one increases, so does the other;1;Yes;No;No;No;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+296;Colombia;25;No;Female;No;b;97,13;No relationship;5;Yes;No;No;No;No;Yes;No;No;No;No;Yes;No;No;No;No;No;No;No;No
+298;Canada;41;No;Female;No;s;25,92;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+299;United Kingdom;59;No;Male;Yes;b;79,92;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No
+300;United States;35;No;Diverse;No;s;35,85;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;Yes;No;No;No;No;No;Yes;No;No;No
+301;Germany;55;No;Male;Yes;s;40;As one increases, the other decreases;5;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+302;United States;55;No;Male;Yes;s;43,9;As one increases, so does the other;5;No;Yes;No;No;Yes;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+303;United Kingdom;43;No;Female;No;b;49,19;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+306;United States;55;No;Diverse;No;s;70,45;As one increases, so does the other;5;No;Yes;No;No;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+307;United Kingdom;38;No;Diverse;No;b;22,87;As one increases, so does the other;4;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;Yes
+313;Canada;35;No;Male;No;s;37,74;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+314;Germany;44;No;Female;No;s;66,37;As one increases, so does the other;4;No;Yes;No;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+315;Other / I'd rather not say;;No;I'd rather not say;No;s;16,23;I have no clue;;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;Yes
+316;Germany;71;No;Male;Yes;b;50,07;I have no clue;;No;No;Yes;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+317;United Kingdom;34;No;Male;No;b;36,78;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+318;United Kingdom;54;No;Male;No;b;44,59;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes;No;No
+320;Austria;31;No;Male;No;s;29,3;As one increases, so does the other;5;Yes;No;No;No;No;Yes;No;Yes;Yes;Yes;Yes;No;Yes;No;No;No;No;No;No
+321;United Kingdom;46;No;Male;No;b;24,28;As one increases, so does the other;5;No;No;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+323;Canada;37;No;Male;Yes;b;25,93;As one increases, so does the other;5;No;Yes;Yes;No;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+330;Canada;60;No;Female;No;s;46,34;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+332;United States;72;No;Female;Yes;b;45,52;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;Yes;No;No;No;No;No;No
+333;Canada;41;No;Male;No;b;67,18;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+335;Other / I'd rather not say;;No;I'd rather not say;Yes;s;6,41;I have no clue;;No;No;No;No;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;Yes
+337;United States;69;No;Female;Yes;b;68,94;As one increases, so does the other;4;No;Yes;No;Yes;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+341;United States;46;No;Male;No;b;28,77;As one increases, so does the other;5;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+342;United States;68;No;Male;No;b;7,34;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;Yes;No;No;No;No;No;No
+344;United States;46;No;Male;No;s;159,4;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No;No
+348;Latvia;40;No;Male;No;s;20,01;As one increases, so does the other;5;No;Yes;No;Yes;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+349;United States;56;No;Female;No;s;87,8;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+350;Brazil;54;No;Male;No;b;41,45;No relationship;3;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+351;Mexico;52;No;Male;Yes;b;46,65;No relationship;3;No;No;Yes;No;No;Yes;No;Yes;No;Yes;No;No;No;No;No;No;No;No;No
+354;United States;56;No;Female;No;s;44,03;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+358;United States;62;No;Male;Yes;s;42,45;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+360;Canada;50;No;Male;Yes;b;48,71;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;No
+361;United States;55;No;Diverse;No;s;63,09;As one increases, so does the other;5;No;Yes;Yes;No;Yes;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+363;Canada;53;No;Female;Yes;b;83,69;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+367;United Kingdom;30;No;Diverse;No;s;52,58;As one increases, so does the other;4;No;Yes;No;Yes;Yes;No;No;Yes;No;Yes;No;No;Yes;No;No;No;No;No;No
+373;United States;53;No;Male;Yes;s;49,77;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+374;France;33;No;Male;Yes;b;78,42;As one increases, so does the other;3;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+375;Netherlands;47;No;Male;Yes;s;14,63;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;No;No;No;Yes;No;No;No;No;No
+376;United States;45;No;Male;No;b;23,81;As one increases, so does the other;3;No;No;No;No;No;Yes;No;Yes;Yes;No;Yes;No;No;No;No;No;No;No;No
+377;Germany;57;No;Male;No;s;50,75;No relationship;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+378;Sweden;57;No;Male;Yes;b;45,24;As one increases, so does the other;5;No;Yes;Yes;No;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+379;Germany;49;No;Male;Yes;s;53,4;As one increases, so does the other;4;No;No;No;No;No;Yes;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+380;Germany;32;No;Female;No;b;56,57;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+381;Estonia;43;No;Male;Yes;s;33,27;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+384;Germany;52;No;Male;Yes;s;120,63;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+386;Sweden;29;No;I'd rather not say;No;b;32,66;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+387;United States;39;No;Female;Yes;b;47,98;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;Yes;No;No;No;No;No;No
+390;Germany;39;No;Male;No;s;69,55;As one increases, so does the other;3;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No;No
+391;France;42;No;Male;No;b;35,58;As one increases, so does the other;5;No;Yes;No;No;Yes;No;No;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+392;United Kingdom;45;No;Diverse;No;s;48,54;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No
+393;Germany;24;No;Male;No;s;61,96;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No;No;No;No;No
+394;Austria;31;No;Male;No;s;17,9;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+396;United States;60;No;Male;No;b;41,55;As one increases, so does the other;4;No;Yes;No;No;No;No;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No
+397;United States;70;No;Female;No;b;79,04;As one increases, so does the other;5;No;Yes;Yes;Yes;Yes;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+398;United States;24;No;Female;No;b;24,56;As one increases, so does the other;5;No;No;No;Yes;No;No;Yes;Yes;No;No;No;No;Yes;No;No;No;No;No;No
+400;Other / I'd rather not say;70;No;Female;No;b;24,85;As one increases, so does the other;3;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+401;Canada;35;No;Diverse;No;b;85,04;As one increases, so does the other;1;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+403;South Africa;42;No;Male;Yes;b;41,86;As one increases, so does the other;5;No;Yes;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+404;Germany;40;No;Male;No;b;48,58;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;No;Yes;No;No;No;No;No;No;No;No
+405;United States;38;No;Male;No;s;60,39;As one increases, so does the other;4;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No
+411;United States;69;Yes;Male;No;s;53,64;As one increases, so does the other;5;No;No;No;No;No;No;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;No

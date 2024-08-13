@@ -1,0 +1,175 @@
+ID;birthcountry;age;colorblind;gender;experience;maptype;relation;confidence
+2;Germany;25;No;Female;Yes;b;No relationship;4
+6;Germany;24;No;Female;Yes;b;As one increases, the other decreases;2
+7;United States;29;No;Male;Yes;b;No relationship;3
+8;Russia;19;No;Male;No;b;No relationship;4
+12;Colombia;25;No;Female;No;s;No relationship;5
+13;Malaysia;29;No;Female;Yes;b;No relationship;3
+14;Colombia;30;No;Female;No;b;As one increases, the other decreases;4
+15;Russia;27;No;Female;No;b;As one increases, the other decreases;4
+17;Germany;27;No;Female;Yes;b;No relationship;4
+19;Russia;29;No;Male;Yes;b;No relationship;3
+20;Turkey;24;No;Female;No;b;No relationship;4
+21;Russia;29;No;I'd rather not say;Yes;b;No relationship;2
+27;France;23;No;Male;Yes;s;No relationship;4
+33;Austria;19;No;Female;No;b;No relationship;3
+37;Colombia;27;No;Female;No;b;No relationship;3
+39;Italy;30;No;Female;No;b;As one increases, the other decreases;3
+40;Russia;29;No;Female;Yes;b;No relationship;2
+42;Colombia;28;No;Female;No;b;No relationship;4
+45;Russia;24;No;I'd rather not say;Yes;b;As one increases, so does the other;2
+48;China;25;No;Female;Yes;s;As one increases, the other decreases;3
+49;Germany;29;No;Male;Yes;s;No relationship;5
+55;Germany;26;No;Female;No;s;As one increases, so does the other;3
+57;United States;32;No;Male;Yes;b;No relationship;2
+59;Greece;26;No;Male;Yes;b;No relationship;1
+60;Colombia;32;No;Female;No;b;No relationship;3
+61;Poland;25;No;Male;Yes;b;No relationship;5
+67;Japan;23;No;Male;No;b;As one increases, the other decreases;4
+68;Malaysia;23;No;Male;No;s;No relationship;2
+70;Malaysia;21;No;Male;No;b;I have no clue;
+72;Malaysia;35;No;Female;Yes;b;No relationship;3
+75;Germany;37;No;Female;Yes;b;No relationship;2
+76;Germany;43;No;Female;Yes;s;I have no clue;
+77;Colombia;28;No;Male;Yes;s;No relationship;4
+79;Colombia;66;No;Female;No;b;No relationship;2
+80;Colombia;28;No;Male;No;b;No relationship;5
+85;China;27;No;Female;Yes;s;No relationship;4
+86;United Kingdom;;No;I'd rather not say;Yes;b;I have no clue;
+89;Nepal;28;No;Male;No;b;No relationship;3
+91;Colombia;28;No;Male;No;s;No relationship;4
+95;Colombia;69;No;Male;No;s;No relationship;4
+96;Colombia;56;No;Female;No;b;I have no clue;
+99;Spain;64;No;Female;Yes;s;I have no clue;
+102;Colombia;27;No;Female;No;s;No relationship;1
+104;Colombia;25;No;Female;No;b;No relationship;3
+108;Colombia;34;Yes;Female;No;b;I have no clue;
+113;Colombia;27;No;Male;No;b;No relationship;4
+117;Colombia;25;No;Female;No;s;No relationship;3
+122;China;24;No;Male;Yes;s;No relationship;5
+124;Colombia;29;No;Female;No;b;As one increases, the other decreases;3
+125;Mexico;27;No;Male;Yes;b;No relationship;3
+126;Other / I'd rather not say;35;No;Female;Yes;b;No relationship;4
+128;Other / I'd rather not say;26;No;I'd rather not say;Yes;b;I have no clue;
+130;Germany;27;No;Male;Yes;s;No relationship;5
+131;Mexico;25;No;Male;Yes;s;No relationship;4
+132;Portugal;22;No;Male;No;s;No relationship;3
+133;United States;27;No;Female;No;b;No relationship;4
+138;Germany;20;No;Male;No;s;As one increases, the other decreases;2
+141;Germany;57;No;Female;No;s;I have no clue;
+144;Germany;20;No;Male;No;s;No relationship;4
+145;Germany;55;No;Male;No;s;As one increases, the other decreases;2
+148;Germany;22;No;Male;No;b;As one increases, so does the other;1
+150;Germany;53;No;Female;No;s;I have no clue;
+151;Colombia;38;No;Female;No;s;No relationship;4
+152;Germany;18;No;Female;No;s;No relationship;4
+154;Israel;27;No;Male;Yes;s;No relationship;3
+156;Mexico;27;No;Female;Yes;s;As one increases, the other decreases;3
+162;United States;53;No;Male;Yes;b;No relationship;3
+163;Germany;35;No;Male;Yes;b;As one increases, so does the other;4
+166;Germany;56;No;Female;No;b;No relationship;3
+169;France;27;No;Male;Yes;b;No relationship;4
+170;United Kingdom;51;No;Male;Yes;s;No relationship;5
+171;United States;45;No;Male;Yes;s;As one increases, so does the other;4
+175;Canada;29;No;Female;Yes;b;No relationship;4
+177;United States;36;No;Male;Yes;b;As one increases, the other decreases;3
+178;Israel;38;No;Male;Yes;b;No relationship;5
+179;Germany;32;No;Male;Yes;s;No relationship;3
+183;France;43;No;Male;Yes;b;No relationship;4
+186;Other / I'd rather not say;48;No;I'd rather not say;No;s;No relationship;5
+189;France;30;No;Diverse;Yes;s;No relationship;5
+193;Germany;24;No;I'd rather not say;Yes;b;No relationship;2
+202;Germany;27;No;Female;No;s;No relationship;5
+208;United States;42;No;Female;Yes;b;No relationship;2
+209;France;36;No;Male;No;b;No relationship;5
+219;United Kingdom;64;No;I'd rather not say;No;b;No relationship;3
+220;United States;53;No;Female;No;s;No relationship;3
+225;Germany;32;Yes;Male;Yes;s;No relationship;3
+228;Germany;18;No;Male;No;s;As one increases, the other decreases;3
+229;France;31;No;Diverse;No;b;No relationship;5
+234;France;35;No;I'd rather not say;No;b;No relationship;2
+236;France;38;No;Diverse;No;b;No relationship;4
+237;Brazil;30;No;Diverse;No;b;No relationship;4
+238;United States;37;No;Diverse;Yes;s;No relationship;4
+244;France;42;No;Male;No;s;No relationship;5
+248;United States;49;No;Female;No;b;No relationship;3
+250;France;31;No;Male;No;s;No relationship;4
+251;Finland;48;No;Female;No;s;No relationship;4
+255;Finland;37;No;Diverse;No;s;No relationship;5
+256;United States;44;No;Male;No;b;No relationship;5
+258;Colombia;26;No;Female;No;s;I have no clue;
+264;United States;27;No;Male;No;s;No relationship;4
+267;Canada;36;No;Male;No;s;No relationship;4
+273;Netherlands;41;No;Male;Yes;b;No relationship;4
+279;Netherlands;31;No;Male;No;s;No relationship;3
+280;Sweden;25;No;Male;No;b;As one increases, the other decreases;4
+283;Germany;39;No;Male;No;s;No relationship;3
+284;United States;55;Yes;Male;Yes;s;No relationship;4
+285;Germany;39;No;Male;No;b;No relationship;5
+286;Belgium;44;No;Female;No;b;No relationship;4
+287;United Kingdom;47;No;Male;No;b;No relationship;3
+288;United Kingdom;38;No;Male;No;b;As one increases, the other decreases;4
+292;United States;48;No;Female;Yes;b;No relationship;3
+294;Germany;35;No;Male;Yes;b;As one increases, the other decreases;3
+296;Colombia;25;No;Female;No;s;No relationship;5
+298;Canada;41;No;Female;No;b;I have no clue;
+299;United Kingdom;59;No;Male;Yes;s;As one increases, the other decreases;3
+300;United States;35;No;Diverse;No;s;No relationship;5
+301;Germany;55;No;Male;Yes;b;As one increases, the other decreases;4
+302;United States;55;No;Male;Yes;s;No relationship;5
+303;United Kingdom;43;No;Female;No;s;As one increases, so does the other;4
+306;United States;55;No;Diverse;No;s;No relationship;4
+307;United Kingdom;38;No;Diverse;No;b;No relationship;2
+313;Canada;35;No;Male;No;s;No relationship;5
+314;Germany;44;No;Female;No;b;No relationship;5
+315;Other / I'd rather not say;;No;I'd rather not say;No;b;No relationship;5
+316;Germany;71;No;Male;Yes;s;I have no clue;
+317;United Kingdom;34;No;Male;No;b;No relationship;5
+318;United Kingdom;54;No;Male;No;b;No relationship;4
+320;Austria;31;No;Male;No;s;No relationship;4
+321;United Kingdom;46;No;Male;No;s;No relationship;4
+323;Canada;37;No;Male;Yes;b;As one increases, so does the other;4
+330;Canada;60;No;Female;No;b;As one increases, the other decreases;4
+332;United States;72;No;Female;Yes;s;As one increases, the other decreases;5
+333;Canada;41;No;Male;No;s;No relationship;5
+335;Other / I'd rather not say;;No;I'd rather not say;Yes;s;No relationship;3
+337;United States;69;No;Female;Yes;b;As one increases, the other decreases;4
+341;United States;46;No;Male;No;b;No relationship;4
+342;United States;68;No;Male;No;s;No relationship;3
+344;United States;46;No;Male;No;b;No relationship;4
+348;Latvia;40;No;Male;No;b;No relationship;5
+349;United States;56;No;Female;No;b;As one increases, the other decreases;2
+350;Brazil;54;No;Male;No;s;No relationship;2
+351;Mexico;52;No;Male;Yes;s;As one increases, the other decreases;3
+354;United States;56;No;Female;No;b;No relationship;4
+358;United States;62;No;Male;Yes;s;No relationship;4
+360;Canada;50;No;Male;Yes;b;No relationship;4
+361;United States;55;No;Diverse;No;s;As one increases, the other decreases;4
+363;Canada;53;No;Female;Yes;s;No relationship;2
+367;United Kingdom;30;No;Diverse;No;s;As one increases, the other decreases;2
+373;United States;53;No;Male;Yes;s;No relationship;4
+374;France;33;No;Male;Yes;b;No relationship;4
+375;Netherlands;47;No;Male;Yes;s;No relationship;4
+376;United States;45;No;Male;No;s;No relationship;3
+377;Germany;57;No;Male;No;s;No relationship;4
+378;Sweden;57;No;Male;Yes;b;No relationship;5
+379;Germany;49;No;Male;Yes;b;No relationship;3
+380;Germany;32;No;Female;No;s;No relationship;1
+381;Estonia;43;No;Male;Yes;s;No relationship;3
+384;Germany;52;No;Male;Yes;s;As one increases, the other decreases;4
+386;Sweden;29;No;I'd rather not say;No;s;No relationship;3
+387;United States;39;No;Female;Yes;s;No relationship;2
+390;Germany;39;No;Male;No;b;No relationship;4
+391;France;42;No;Male;No;b;No relationship;4
+392;United Kingdom;45;No;Diverse;No;b;No relationship;5
+393;Germany;24;No;Male;No;s;No relationship;1
+394;Austria;31;No;Male;No;b;As one increases, the other decreases;2
+396;United States;60;No;Male;No;s;No relationship;3
+397;United States;70;No;Female;No;s;No relationship;4
+398;United States;24;No;Female;No;b;No relationship;4
+400;Other / I'd rather not say;70;No;Female;No;s;No relationship;5
+401;Canada;35;No;Diverse;No;s;As one increases, so does the other;4
+403;South Africa;42;No;Male;Yes;s;No relationship;4
+404;Germany;40;No;Male;No;s;No relationship;2
+405;United States;38;No;Male;No;s;No relationship;4
+411;United States;69;Yes;Male;No;s;As one increases, so does the other;1

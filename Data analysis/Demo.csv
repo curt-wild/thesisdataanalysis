@@ -1,0 +1,175 @@
+ID;birthcountry;age;colorblind;gender;experience
+2;Germany;25;No;Female;Yes
+6;Germany;24;No;Female;Yes
+7;United States;29;No;Male;Yes
+8;Russia;19;No;Male;No
+12;Colombia;25;No;Female;No
+13;Malaysia;29;No;Female;Yes
+14;Colombia;30;No;Female;No
+15;Russia;27;No;Female;No
+17;Germany;27;No;Female;Yes
+19;Russia;29;No;Male;Yes
+20;Turkey;24;No;Female;No
+21;Russia;29;No;I'd rather not say;Yes
+27;France;23;No;Male;Yes
+33;Austria;19;No;Female;No
+37;Colombia;27;No;Female;No
+39;Italy;30;No;Female;No
+40;Russia;29;No;Female;Yes
+42;Colombia;28;No;Female;No
+45;Russia;24;No;I'd rather not say;Yes
+48;China;25;No;Female;Yes
+49;Germany;29;No;Male;Yes
+55;Germany;26;No;Female;No
+57;United States;32;No;Male;Yes
+59;Greece;26;No;Male;Yes
+60;Colombia;32;No;Female;No
+61;Poland;25;No;Male;Yes
+67;Japan;23;No;Male;No
+68;Malaysia;23;No;Male;No
+70;Malaysia;21;No;Male;No
+72;Malaysia;35;No;Female;Yes
+75;Germany;37;No;Female;Yes
+76;Germany;43;No;Female;Yes
+77;Colombia;28;No;Male;Yes
+79;Colombia;66;No;Female;No
+80;Colombia;28;No;Male;No
+85;China;27;No;Female;Yes
+86;United Kingdom;;No;I'd rather not say;Yes
+89;Nepal;28;No;Male;No
+91;Colombia;28;No;Male;No
+95;Colombia;69;No;Male;No
+96;Colombia;56;No;Female;No
+99;Spain;64;No;Female;Yes
+102;Colombia;27;No;Female;No
+104;Colombia;25;No;Female;No
+108;Colombia;34;Yes;Female;No
+113;Colombia;27;No;Male;No
+117;Colombia;25;No;Female;No
+122;China;24;No;Male;Yes
+124;Colombia;29;No;Female;No
+125;Mexico;27;No;Male;Yes
+126;Other / I'd rather not say;35;No;Female;Yes
+128;Other / I'd rather not say;26;No;I'd rather not say;Yes
+130;Germany;27;No;Male;Yes
+131;Mexico;25;No;Male;Yes
+132;Portugal;22;No;Male;No
+133;United States;27;No;Female;No
+138;Germany;20;No;Male;No
+141;Germany;57;No;Female;No
+144;Germany;20;No;Male;No
+145;Germany;55;No;Male;No
+148;Germany;22;No;Male;No
+150;Germany;53;No;Female;No
+151;Colombia;38;No;Female;No
+152;Germany;18;No;Female;No
+154;Israel;27;No;Male;Yes
+156;Mexico;27;No;Female;Yes
+162;United States;53;No;Male;Yes
+163;Germany;35;No;Male;Yes
+166;Germany;56;No;Female;No
+169;France;27;No;Male;Yes
+170;United Kingdom;51;No;Male;Yes
+171;United States;45;No;Male;Yes
+175;Canada;29;No;Female;Yes
+177;United States;36;No;Male;Yes
+178;Israel;38;No;Male;Yes
+179;Germany;32;No;Male;Yes
+183;France;43;No;Male;Yes
+186;Other / I'd rather not say;48;No;I'd rather not say;No
+189;France;30;No;Diverse;Yes
+193;Germany;24;No;I'd rather not say;Yes
+202;Germany;27;No;Female;No
+208;United States;42;No;Female;Yes
+209;France;36;No;Male;No
+219;United Kingdom;64;No;I'd rather not say;No
+220;United States;53;No;Female;No
+225;Germany;32;Yes;Male;Yes
+228;Germany;18;No;Male;No
+229;France;31;No;Diverse;No
+234;France;35;No;I'd rather not say;No
+236;France;38;No;Diverse;No
+237;Brazil;30;No;Diverse;No
+238;United States;37;No;Diverse;Yes
+244;France;42;No;Male;No
+248;United States;49;No;Female;No
+250;France;31;No;Male;No
+251;Finland;48;No;Female;No
+255;Finland;37;No;Diverse;No
+256;United States;44;No;Male;No
+258;Colombia;26;No;Female;No
+264;United States;27;No;Male;No
+267;Canada;36;No;Male;No
+273;Netherlands;41;No;Male;Yes
+279;Netherlands;31;No;Male;No
+280;Sweden;25;No;Male;No
+283;Germany;39;No;Male;No
+284;United States;55;Yes;Male;Yes
+285;Germany;39;No;Male;No
+286;Belgium;44;No;Female;No
+287;United Kingdom;47;No;Male;No
+288;United Kingdom;38;No;Male;No
+292;United States;48;No;Female;Yes
+294;Germany;35;No;Male;Yes
+296;Colombia;25;No;Female;No
+298;Canada;41;No;Female;No
+299;United Kingdom;59;No;Male;Yes
+300;United States;35;No;Diverse;No
+301;Germany;55;No;Male;Yes
+302;United States;55;No;Male;Yes
+303;United Kingdom;43;No;Female;No
+306;United States;55;No;Diverse;No
+307;United Kingdom;38;No;Diverse;No
+313;Canada;35;No;Male;No
+314;Germany;44;No;Female;No
+315;Other / I'd rather not say;;No;I'd rather not say;No
+316;Germany;71;No;Male;Yes
+317;United Kingdom;34;No;Male;No
+318;United Kingdom;54;No;Male;No
+320;Austria;31;No;Male;No
+321;United Kingdom;46;No;Male;No
+323;Canada;37;No;Male;Yes
+330;Canada;60;No;Female;No
+332;United States;72;No;Female;Yes
+333;Canada;41;No;Male;No
+335;Other / I'd rather not say;;No;I'd rather not say;Yes
+337;United States;69;No;Female;Yes
+341;United States;46;No;Male;No
+342;United States;68;No;Male;No
+344;United States;46;No;Male;No
+348;Latvia;40;No;Male;No
+349;United States;56;No;Female;No
+350;Brazil;54;No;Male;No
+351;Mexico;52;No;Male;Yes
+354;United States;56;No;Female;No
+358;United States;62;No;Male;Yes
+360;Canada;50;No;Male;Yes
+361;United States;55;No;Diverse;No
+363;Canada;53;No;Female;Yes
+367;United Kingdom;30;No;Diverse;No
+373;United States;53;No;Male;Yes
+374;France;33;No;Male;Yes
+375;Netherlands;47;No;Male;Yes
+376;United States;45;No;Male;No
+377;Germany;57;No;Male;No
+378;Sweden;57;No;Male;Yes
+379;Germany;49;No;Male;Yes
+380;Germany;32;No;Female;No
+381;Estonia;43;No;Male;Yes
+384;Germany;52;No;Male;Yes
+386;Sweden;29;No;I'd rather not say;No
+387;United States;39;No;Female;Yes
+390;Germany;39;No;Male;No
+391;France;42;No;Male;No
+392;United Kingdom;45;No;Diverse;No
+393;Germany;24;No;Male;No
+394;Austria;31;No;Male;No
+396;United States;60;No;Male;No
+397;United States;70;No;Female;No
+398;United States;24;No;Female;No
+400;Other / I'd rather not say;70;No;Female;No
+401;Canada;35;No;Diverse;No
+403;South Africa;42;No;Male;Yes
+404;Germany;40;No;Male;No
+405;United States;38;No;Male;No
+411;United States;69;Yes;Male;No
